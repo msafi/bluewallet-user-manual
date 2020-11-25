@@ -14,7 +14,7 @@ In the "add wallet" screen, you can choose between a Bitcoin wallet and a Lightn
 
 ![](./images/add-bitcoin-wallet.png)
 
-For Bitcoin, choose Bitcoin. (If you want to create a Lightning wallet, see [this guide](./create-lightning-wallet.md).)
+For Bitcoin, click on the Bitcoin button. (If you want to create a Lightning wallet, see [this guide](./create-lightning-wallet.md).)
 
 You may also name your wallet, or leave the default name.
 
@@ -73,9 +73,9 @@ In this text area you can post your: mnemonic, private key or WIF.
 
 ???
 
-After you've entered your import source in the text area, click "Import" to create an imported wallet.
-
 #### ??? What else can the user import
+
+After you've entered your import source in the text area, click "Import" to create an imported wallet.
 
 #### Scanning or importing a file
 

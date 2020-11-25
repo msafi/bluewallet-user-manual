@@ -14,7 +14,7 @@ In the "add wallet" screen, you can choose between a Bitcoin wallet and a Lightn
 
 ![](./images/add-lightning-wallet.png)
 
-For Lightning, choose Lightning. (If you want to create a Bitcoin wallet, see [this guide](./create-bitcoin-wallet.md).)
+For Lightning, click on the Lightning button. (If you want to create a Bitcoin wallet, see [this guide](./create-bitcoin-wallet.md).)
 
 You may also name your wallet, or leave the default name.
 

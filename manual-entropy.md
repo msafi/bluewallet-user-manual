@@ -34,6 +34,6 @@ You should see a note at the bottom of the screen informing you that your saved 
 
 ![](./images/manual-entropy-used.png)
 
-If you didn't provide all the 256 of entropy, BlueWallet will use the system's random number generator to obtain the remaining bytes. In that case you'll see a message like this:
+If you didn't provide all the 256 bits of entropy, BlueWallet will use the system's random number generator to obtain the remaining bytes. In that case you'll see a message like this:
 
 ![](./images/incomplete-manual-entropy.png)
